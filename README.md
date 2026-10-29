@@ -3,7 +3,7 @@
 Official Public Manifesto and Corporate Record for AE Global Ventures LLC and the Registered Trademark: AESTHETICENTITIES.
 
 ## I. Family Lineage & Creative Heritage
-- **The Mediterranean Bedrock:** Rooted in the ancient geometry of Syracuse, the structural logic of Socrates, and the architectural permanence of Rome, handed down through the Sicilian lineage of Grandfather Daniel (creator of the landmark Spadaro Christmas Castle on Muscatel, awarded by Rosemead City Hall) and Grandmother Maria Spadaro's Madrid heritage.
+- **The Mediterranean Bedrock:** Rooted in the ancient geometry of Syracuse, the structural logic of Socrates, and the architectural permanence of Rome, handed down through the Sicilian lineage of Grandfather Daniel and Grandmother Maria Spadaro's Madrid heritage.
 
 - **The Americas Frontier:** Infused with the vast geography, independent spirit, and deep soul of Mexican, Spanish, New Mexican, and Texas American heritage from mother, Barbara Prado of South Lake Tahoe.
 
@@ -12,7 +12,7 @@ Official Public Manifesto and Corporate Record for AE Global Ventures LLC and th
 - **The Olympia Heavy Music Legacy:** Connected through maternal uncle Billy Anderson, originating from Olympia bands including No Way Out. As a legendary heavy music producer, engineer, and musician, he splits his time between studio work and performing, remaining the active bassist for bands like High Tone Son of a Bitch (HTSOB) and Curezum, alongside his solo project HZ.
 
 ## II. Technical & Scientific Foundation
-- **Industrial Mechanics:** Grounded by Father Danny Spadaro, master carpenter and business owner on Muscatel, specializing in the precision engineering of high-end SCM Italian woodworking machinery.
+- **Industrial Mechanics & Legacy:** Grounded by Father Danny Spadaro, master carpenter and business owner, specializing in the precision engineering of high-end SCM Italian woodworking machinery. This mechanical lineage was built alongside the landmark Spadaro Christmas Castle on Muscatel, created by Grandfather Daniel and officially awarded by Rosemead City Hall.
 
 - **The Classical Strings:** Trained under Professor Stephen Jones at Pasadena City College (PCC), inheriting the flawless, fluid tone production, spatial architecture, and polyphonic finger independence of the Pepe Romero and Andrés Segovia classical guitar lineage.
 
@@ -34,6 +34,7 @@ Official Public Manifesto and Corporate Record for AE Global Ventures LLC and th
 
 * **Aesthetic Entities:** [aestheticentities.com](https://aestheticentities.com)
 * **ViralCoin Registry:** [viralcoin.ai](https://viralcoin.ai)
-* **AE Protocol & Architecture:** Secured via Unbound Oracle Architecture & Sovereign Routing
+* **Ashen Zeta:** [ashenzeta.com](https://ashenzeta.com) — Operating as the secure node and Zeta data layer for the Aetheos Protocol.
+* **AE Protocol & Architecture:** Secured via Unbound Oracle Architecture, establishing fair trade data sovereignty and resilient routing across the grid.
 
 Copyright © 2026 Justin Spadaro, AE Global Ventures LLC. All Rights Reserved.
