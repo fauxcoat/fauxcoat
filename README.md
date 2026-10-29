@@ -5,7 +5,7 @@ Official Public Manifesto and Corporate Record for AE Global Ventures LLC and th
 ## I. Family Lineage & Creative Heritage
 - **The Mediterranean Bedrock:** Rooted in the ancient geometry of Syracuse, the structural logic of Socrates, and the architectural permanence of Rome, handed down through the Sicilian lineage of Grandfather Daniel and Grandmother Maria Spadaro's Madrid heritage.
 
-- **The Americas Frontier:** Infused with the vast geography, independent spirit, and deep soul of Mexican, Spanish, New Mexican, and Texas American heritage from mother, Barbara Prado of South Lake Tahoe.
+- **The Americas Frontier:** Infused with the vast geography, independent spirit, and deep soul of Mexican, Spanish, New Mexican, and Texas American heritage from mother, Barbara Jean Prado of South Lake Tahoe (named in honor of Norma Jean).
 
 - **The Hollywood Music Royalty:** Raised in the creative centers of Fryman Canyon, the Hollywood Hills, Valley Village, and Santa Monica (Samohi). Connected directly through the Prado family (Aunt Arlene Prado, first cousin Laura, and her son Jacob residing in South Lake Tahoe) to Cousin-in-Law Jonathan Melvoin, alongside Wendy Melvoin, Susannah Melvoin, and Mike Melvoin (The Wrecking Crew/Paisley Park/Prince legacy), as well as the alternative production eras of Billy Corgan.
 
