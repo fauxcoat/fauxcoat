@@ -29,3 +29,10 @@ Official Public Manifesto and Corporate Record for AE Global Ventures LLC and th
 
 
 Copyright © 2026 Justin Spadaro, AE Global Ventures LLC. All Rights Reserved.
+
+## IV. The Sovereign Grid & Active Network
+**Executive & Compliance Root:** [aeglobal.ai](https://aeglobal.ai)
+
+* **Aesthetic Entities:** [aestheticentities.com](https://aestheticentities.com)
+* **ViralCoin Registry:** [viralcoin.ai](https://viralcoin.ai)
+* **AE Protocol & Architecture:** *(Deploying via Vercel)*
