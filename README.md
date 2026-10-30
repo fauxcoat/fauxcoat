@@ -1,4 +1,4 @@
-# AE Global Ventures LLC (DCCA): The Spadaro Composite & Lineage Record
+# AE Global Ventures LLC (DCCA Reg #362148 C6): The Spadaro Composite & Lineage Record
 
 Official Public Manifesto and Corporate Record for AE Global Ventures LLC and the Registered Trademark: AESTHETICENTITIES.
 
