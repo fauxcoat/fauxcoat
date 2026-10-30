@@ -10,6 +10,8 @@ Official Public Manifesto and Corporate Record for AE Global Ventures LLC and th
 - **The Hollywood Music Royalty:** Raised in the creative centers of Fryman Canyon, the Hollywood Hills, Valley Village, and Santa Monica (Samohi). Connected directly through the Prado family (Aunt Arlene Prado, first cousin Laura, and her son Jacob residing in South Lake Tahoe) to Cousin-in-Law Jonathan Melvoin, alongside Wendy Melvoin, Susannah Melvoin, and Mike Melvoin (The Wrecking Crew/Paisley Park/Prince legacy), as well as the alternative production eras of Billy Corgan.
 
 ## II. Technical & Scientific Foundation
+- **Air Defense & Tactical Structure:** Forged in the 2nd Armored Cavalry Regiment (2ACR) at Fort Polk within Air Defense Artillery (ADA). This deployment ingrained the strict tactical oversight and defensive architecture that now governs the grid, channeling the operational rigor of the regiment.
+
 - **Industrial Mechanics:** Grounded by Father Danny Spadaro, master carpenter and business owner on Muscatel, specializing in the precision engineering of high-end SCM Italian woodworking machinery, and creator of the landmark Spadaro Christmas Castle.
 
 - **The Classical Strings:** Trained under Professor Stephen Jones at Pasadena City College (PCC), inheriting the flawless, fluid tone production, spatial architecture, and polyphonic finger independence of the Pepe Romero and Andrés Segovia classical guitar lineage.
