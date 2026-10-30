@@ -30,7 +30,7 @@ Official Public Manifesto and Corporate Record for AE Global Ventures LLC and th
 - **ViralCoin & Asset Deployment:** Composed and deployed through AE Global Ventures LLC as an independent commercial vehicle engineered to protect, scale, and launch beautifully structured digital assets into global economic ecosystems.
 
 ## IV. Geopolitical Enterprise Strategy & Pan-American Fair Trade
-- **Hemispheric Logistics & North American Integration:** Establishing frameworks for cross-border supply chain integration across the Americas, bridging the continental gap with Canada while securing Brazilian agriculture and Panamanian maritime corridors.
+- **Hemispheric Logistics & North American Integration:** Establishing frameworks for cross-border supply chain integration across the Americas, bridging the continental gap with Canada, targeting nearshoring infrastructure in Mexico, and securing Brazilian agriculture alongside Panamanian maritime corridors.
 - **Fair Trade Regulatory Shield & Emerging Market Stabilization:** De-risking international trade through rigorous compliance. This includes architecting compliant digital infrastructure to stabilize markets like Venezuela (leveraging local USD adoption) and preparing for the strategic easing of Cuban relations under strict U.S. regulatory frameworks.
 - **Alternative Infrastructure in the Caribbean:** Utilizing strategic hubs like Spanish Town to deploy Fintech and Climate-Smart AgTech, integrating regional banking into global markets while countering foreign state-backed initiatives with transparent, rules-based Western capital.
 
