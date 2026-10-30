@@ -29,14 +29,14 @@ Official Public Manifesto and Corporate Record for AE Global Ventures LLC and th
 
 - **ViralCoin & Asset Deployment:** Composed and deployed through AE Global Ventures LLC as an independent commercial vehicle engineered to protect, scale, and launch beautifully structured digital assets into global economic ecosystems.
 
-## IV. Geopolitical Enterprise Strategy & Americas Fair Trade Framework
-- **Hemispheric Agri-Trade & Logistics Mandate:** Establishing frameworks for cross-border supply chain integration across the Americas. This includes securing Brazilian agricultural logistics for high-yield export, targeting nearshoring infrastructure in Mexico, and leveraging South American and Panamanian maritime corridors to stabilize global trade routes.
-- **Fair Trade Regulatory Shield:** De-risking international trade through rigorous compliance frameworks, preempting tariffs, and providing institutional security for U.S.-bound joint ventures and Caribbean producers. 
-- **Alternative Infrastructure in the Caribbean:** Utilizing strategic hubs like Spanish Town to deploy Fintech and Climate-Smart AgTech, integrating regional banking and agriculture into global markets while countering foreign state-backed initiatives with transparent, rules-based Western capital.
+## IV. Geopolitical Enterprise Strategy & Pan-American Fair Trade
+- **Hemispheric Logistics & North American Integration:** Establishing frameworks for cross-border supply chain integration across the Americas, bridging the continental gap with Canada while securing Brazilian agriculture and Panamanian maritime corridors.
+- **Fair Trade Regulatory Shield & Emerging Market Stabilization:** De-risking international trade through rigorous compliance. This includes architecting compliant digital infrastructure to stabilize markets like Venezuela (leveraging local USD adoption) and preparing for the strategic easing of Cuban relations under strict U.S. regulatory frameworks.
+- **Alternative Infrastructure in the Caribbean:** Utilizing strategic hubs like Spanish Town to deploy Fintech and Climate-Smart AgTech, integrating regional banking into global markets while countering foreign state-backed initiatives with transparent, rules-based Western capital.
 
 ## V. Federal Compliance & Executive Standards
 - **US Federal Contracting Readiness:** Officially registered within the US government's System for Award Management (SAM.gov). **Entity ID: PLGHN3RTLJK3**
-- **Hawaii Foreign LLC & Indigenous Sovereignty:** Operating as a registered Foreign LLC in Hawaii, executing direct-chain integrations to eliminate local environmental risks while utilizing immutable ledger data to preserve and protect Native Hawaiian ecological and cultural sovereignty.
+- **Hawaii & New Mexico Foreign LLCs:** Operating as a registered Foreign LLC in both Hawaii and New Mexico. Executing direct-chain integrations to eliminate local environmental risks while utilizing immutable ledger data to preserve and protect indigenous ecological and cultural sovereignty.
 - **The Sovereign Standard:** Architecture strictly adheres to America-First data sovereignty, utilizing domestic quantum infrastructure and deregulated, cryptographically absolute network routing (Unbound Oracle) to eliminate intermediary reliance.
 
 ## VI. The Sovereign Grid & Active Network
