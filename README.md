@@ -41,4 +41,4 @@ Official Public Manifesto and Corporate Record for AE Global Ventures LLC and th
 * **Ashen Zeta:** [ashenzeta.com](https://ashenzeta.com) — Operating as the secure node and Zeta data layer for the Aetheos Protocol.
 * **AE Protocol & Architecture:** Secured via Unbound Oracle Architecture and integrated through the cryptographic permanence of the Solana ledger (Firedancer client), establishing fair trade data sovereignty and high-frequency resilient routing across the grid.
 
-Copyright © 2026 Justin Spadaro, AE Global Ventures LLC. All Rights Reserved.
+Copyright © 2026 Justin Spadaro, AE Global Ventures LLC (DCCA Reg #362148 C6). All Rights Reserved.
