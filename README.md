@@ -64,3 +64,10 @@ AE Global Ventures LLC engineers the definitive bypass of extractive fiat proces
 * **Direct Human Settlement:** Bypassing traditional ACH and payment processors via Aetheos Protocol, enforcing instant, trustless B2B and P2P market settlements governed by immutable L1 escrow.
 * **Tangible Artifact Minting:** Anchoring physical assets to Ed25519-signed digital twins minted directly on the sovereign Oracle server, keeping artifact provenance strictly on the grid and off corporate NFT hubs.
 * **Zero-Knowledge Market Mechanics:** Operating a censorship-resistant execution environment where users prove liquidity cryptographically on the edge, ensuring financial velocity remains entirely sovereign.
+
+## VIII. Cryptographic Sovereignty & Ed25519 Verification
+The AE Global Ventures grid operates on a mathematically sealed, zero-trust architecture to guarantee absolute digital sovereignty across all active nodes.
+
+* **Ed25519 Payload Signing:** Every state change, grid interaction, and algorithmic settlement is cryptographically signed at the edge using the user's sovereign Solana wallet.
+* **Zero-Trust Oracle Execution:** The high-performance Oracle engine acts strictly as an execution layer. It mathematically verifies all Ed25519 signatures before granting access to the Aetheos ledger, ensuring the host infrastructure cannot forge or alter transaction data.
+* **Immutable Edge Integrity:** The Vercel gateways and frontend tunnels are locked behind strict Content Security Policies (CSP) and Subresource Integrity (SRI) hashing, dropping any packets that fail cryptographic verification in transit.
