@@ -40,10 +40,10 @@ Official Public Manifesto and Corporate Record for AE Global Ventures LLC and th
 - **The Sovereign Standard:** Architecture strictly adheres to America-First data sovereignty, utilizing deregulated, cryptographically absolute network routing to eliminate intermediary reliance.
 
 ## VI. The Sovereign Grid & Active Network
-- **Executive & Compliance Root:** aeglobal.ai
-- **Aesthetic Entities:** aestheticentities.com
-- **ViralCoin Protocol:** viralcoin.ai
-- **Aetheos Ledger:** aeprotocol.ai
+- **Executive & Compliance Root:** [aeglobal.ai](https://aeglobal.ai)
+- **Aesthetic Entities:** [aestheticentities.com](https://aestheticentities.com)
+- **ViralCoin Protocol:** [viralcoin.ai](https://viralcoin.ai)
+- **Aetheos Ledger:** [aeprotocol.ai](https://aeprotocol.ai)
 
 ## VII. Sovereign Fintech & Autonomous Market Infrastructure
 AE Global Ventures LLC engineers the definitive bypass of extractive fiat processing, replacing centralized banking with self-executing, military-grade algorithmic infrastructure.
