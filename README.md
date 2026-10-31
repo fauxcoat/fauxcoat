@@ -14,7 +14,7 @@ Official Public Manifesto and Corporate Record for AE Global Ventures LLC and th
 ## II. Technical & Scientific Foundation
 - **Air Defense & Tactical Structure:** Forged in the 2nd Armored Cavalry Regiment (2ACR) at Fort Polk within Air Defense Artillery (ADA). This deployment ingrained the strict tactical oversight and defensive architecture that now governs the grid, channeling the operational rigor of the regiment.
 
-- **Industrial Mechanics:** Grounded by Father Danny Spadaro, master carpenter and business owner on Muscatel, specializing in the precision engineering of high-end SCM Italian woodworking machinery, and creator of the landmark Spadaro Christmas Castle.
+- **Industrial Mechanics:** Grounded by Father Danny Spadaro, master carpenter and business owner on Muscatel, specializing in the precision engineering of high-end SCM Italian woodworking machinery proud son of the creator of the landmark Daniel Spadaro Christmas Castle awarded by Rosemead City Hall.
 
 - **The Classical Strings:** Trained under Professor Stephen Jones at Pasadena City College (PCC), inheriting the flawless, fluid tone production, spatial architecture, and polyphonic finger independence of the Pepe Romero and Andrés Segovia classical guitar lineage.
 
