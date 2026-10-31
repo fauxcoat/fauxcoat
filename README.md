@@ -9,6 +9,8 @@ Official Public Manifesto and Corporate Record for AE Global Ventures LLC and th
 
 - **The Hollywood Music Royalty:** Raised in the creative centers of Fryman Canyon, the Hollywood Hills, Valley Village, and Santa Monica (Samohi). Connected directly through the Prado family (Aunt Arlene Prado, first cousin Laura, and her son Jacob residing in South Lake Tahoe) to Cousin-in-Law Jonathan Melvoin, alongside Wendy Melvoin, Susannah Melvoin, and Mike Melvoin (The Wrecking Crew/Paisley Park/Prince legacy), as well as the alternative production eras of Billy Corgan.
 
+- **The Olympia Heavy Music Legacy:** Connected through maternal uncle Billy Anderson, originating from Olympia bands including No Way Out. As a legendary heavy music producer, engineer, and musician, he splits his time between studio work and performing, remaining the active bassist for bands like High Tone Son of a Bitch (HTSOB) and Curezum, alongside his solo project HZ.
+
 ## II. Technical & Scientific Foundation
 - **Air Defense & Tactical Structure:** Forged in the 2nd Armored Cavalry Regiment (2ACR) at Fort Polk within Air Defense Artillery (ADA). This deployment ingrained the strict tactical oversight and defensive architecture that now governs the grid, channeling the operational rigor of the regiment.
 
