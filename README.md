@@ -49,6 +49,7 @@ Official Public Manifesto and Corporate Record for AE Global Ventures LLC and th
 - **ViralCoin Protocol:** [viralcoin.ai](https://viralcoin.ai)
 - **Aetheos Ledger:** [aeprotocol.ai](https://aeprotocol.ai)
 - **AshenZeta Grid:** [ashenzeta.com](https://ashenzeta.com)
+- **AeSon Amorphic Bridge:** [aeson.si] (https://aeson.si)
   
 ## VII. Sovereign Fintech & Autonomous Market Infrastructure
 AE Global Ventures LLC engineers the definitive bypass of extractive fiat processing, replacing centralized banking with self-executing, military-grade algorithmic infrastructure.
